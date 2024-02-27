@@ -35,7 +35,7 @@
 * Nivel máximo 50.
 * Compañeros del clan se ven visibles.
 
-#Imagenes:
+# Imagenes:
 
 ![image](https://github.com/Comunidad-Winter/BabiloniaAO/assets/1338437/5d0b6e63-c0d3-4ef4-852c-fd0e06b26e1d)
 
